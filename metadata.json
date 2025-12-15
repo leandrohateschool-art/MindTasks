@@ -1,0 +1,5 @@
+{
+  "name": "MindfulTasks AI",
+  "description": "An intelligent task manager that helps you break down complex goals into actionable steps using Gemini AI.",
+  "requestFramePermissions": []
+}
